@@ -1,0 +1,25 @@
+{
+  "checkpoint": "iter_500.pt",
+  "seed": 42,
+  "episode": 1,
+  "device": "cpu",
+  "policy": "deterministic Gaussian mean, clipped",
+  "frames": [
+    {
+      "step": 0,
+      "time_s": 0.0,
+      "error_m": 0.28936909693530527
+    },
+    {
+      "step": 5,
+      "time_s": 0.5,
+      "error_m": 0.013994054059666932
+    },
+    {
+      "step": 30,
+      "time_s": 3.0,
+      "error_m": 0.003003436371986776
+    }
+  ],
+  "note": "First episode for this seed; illustrative rollout, not aggregate evaluation."
+}

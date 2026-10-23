@@ -1,7 +1,24 @@
 # SO-100 PPO: learning to reach in MuJoCo
 
-An implementation of Proximal Policy Optimization for a simulated SO-100 arm,
-developed as an independent study of the
+The goal of this project was to train a reinforcement-learning policy to move
+a simulated robot arm's end effector to a randomly placed target and settle near
+it. PPO learns from interaction rewards, without expert action demonstrations
+or a predefined path to follow.
+
+![Trained PPO policy reaching the green target](media/reaching-sequence.png)
+
+*One real MuJoCo rollout of the trained policy: initial state, approach, and end
+of the three-second episode. The green sphere marks the target. Frames use the
+iteration-500 checkpoint, seed 42, first episode, and deterministic CPU inference.
+Distances describe this illustrative episode; aggregate results appear below.*
+
+The learned behavior is **closed-loop target-reaching control**. Every 0.1 s,
+the actor receives the current robot/target observation and issues six joint
+position commands. MuJoCo's position actuators execute those commands. Repeating
+this process produces the motion trajectory; the policy does not explicitly
+compute a complete path in advance or track a prescribed time-varying trajectory.
+
+This independent study builds on the
 [ETH Zürich Robot Learning assignment](https://github.com/tenvinc/ethz-course-2026/tree/main/hw4_reinforcement_learning).
 
 After **1,024,000 training interactions**, the final policy achieved a mean
@@ -129,3 +146,16 @@ See the [experiment log](docs/experiment-log.md),
 [result metadata](results/baseline/summary.json). No success-rate threshold is
 defined for this reaching task, so these results are not a pick-and-place
 success rate.
+
+## Reproduce the simulation images
+
+With a trained checkpoint available, run:
+
+```bash
+python scripts/render_policy.py --model_path logs/ppo/<run>/iter_500.pt
+```
+
+This renders the first episode with seed 42 at 0.0, 0.5, and 3.0 seconds, using
+CPU inference. Images and capture metadata are saved in `media/`. The script
+defaults to EGL for offscreen rendering on Linux; an appropriate OpenGL backend
+is required. The capture metadata records the instantaneous error at each frame.
