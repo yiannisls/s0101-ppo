@@ -1,0 +1,14 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "torch": "2.14.1",
+    "gymnasium": "1.4.0",
+    "mujoco": "3.17.0",
+    "tensorboard": "2.20.0",
+    "setuptools": "81.0.0"
+  },
+  "note": "Environment inspected at packaging; setuptools was downgraded to 81.0.0 after training to restore TensorBoard."
+}

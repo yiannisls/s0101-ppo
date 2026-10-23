@@ -1,0 +1,117 @@
+Using device: cuda
+GPU name: NVIDIA GeForce RTX 4060 Laptop GPU
+Loaded checkpoint from: logs/ppo/26_10_23_15_26_57_model/iter_500.pt
+Eval Episode 01 | Return: 62.718 | Length: 30 | Mean EE Error: 0.016903
+Eval Episode 02 | Return: 52.825 | Length: 30 | Mean EE Error: 0.010693
+Eval Episode 03 | Return: 67.549 | Length: 30 | Mean EE Error: 0.008266
+Eval Episode 04 | Return: 20.536 | Length: 30 | Mean EE Error: 0.070198
+Eval Episode 05 | Return: 51.053 | Length: 30 | Mean EE Error: 0.018145
+Eval Episode 06 | Return: 22.922 | Length: 30 | Mean EE Error: 0.055683
+Eval Episode 07 | Return: 51.839 | Length: 30 | Mean EE Error: 0.014461
+Eval Episode 08 | Return: 48.818 | Length: 30 | Mean EE Error: 0.023863
+Eval Episode 09 | Return: 51.353 | Length: 30 | Mean EE Error: 0.016922
+Eval Episode 10 | Return: 52.644 | Length: 30 | Mean EE Error: 0.012215
+Eval Episode 11 | Return: 67.174 | Length: 30 | Mean EE Error: 0.006120
+Eval Episode 12 | Return: 53.519 | Length: 30 | Mean EE Error: 0.010367
+Eval Episode 13 | Return: 48.042 | Length: 30 | Mean EE Error: 0.026107
+Eval Episode 14 | Return: 56.427 | Length: 30 | Mean EE Error: 0.010889
+Eval Episode 15 | Return: 50.986 | Length: 30 | Mean EE Error: 0.018478
+Eval Episode 16 | Return: 68.911 | Length: 30 | Mean EE Error: 0.004708
+Eval Episode 17 | Return: 49.963 | Length: 30 | Mean EE Error: 0.017472
+Eval Episode 18 | Return: 53.302 | Length: 30 | Mean EE Error: 0.010650
+Eval Episode 19 | Return: 51.952 | Length: 30 | Mean EE Error: 0.013420
+Eval Episode 20 | Return: 48.470 | Length: 30 | Mean EE Error: 0.026526
+Eval Episode 21 | Return: 53.178 | Length: 30 | Mean EE Error: 0.009252
+Eval Episode 22 | Return: 50.980 | Length: 30 | Mean EE Error: 0.015479
+Eval Episode 23 | Return: 60.149 | Length: 30 | Mean EE Error: 0.023694
+Eval Episode 24 | Return: 64.958 | Length: 30 | Mean EE Error: 0.012528
+Eval Episode 25 | Return: 65.753 | Length: 30 | Mean EE Error: 0.008061
+Eval Episode 26 | Return: 65.671 | Length: 30 | Mean EE Error: 0.009104
+Eval Episode 27 | Return: 18.168 | Length: 30 | Mean EE Error: 0.085964
+Eval Episode 28 | Return: 65.240 | Length: 30 | Mean EE Error: 0.008887
+Eval Episode 29 | Return: 49.972 | Length: 30 | Mean EE Error: 0.019340
+Eval Episode 30 | Return: 65.706 | Length: 30 | Mean EE Error: 0.010342
+Eval Episode 31 | Return: 51.037 | Length: 30 | Mean EE Error: 0.015945
+Eval Episode 32 | Return: 50.232 | Length: 30 | Mean EE Error: 0.019716
+Eval Episode 33 | Return: 51.806 | Length: 30 | Mean EE Error: 0.014380
+Eval Episode 34 | Return: 33.917 | Length: 30 | Mean EE Error: 0.029980
+Eval Episode 35 | Return: 50.538 | Length: 30 | Mean EE Error: 0.017450
+Eval Episode 36 | Return: 67.187 | Length: 30 | Mean EE Error: 0.007915
+Eval Episode 37 | Return: 55.066 | Length: 30 | Mean EE Error: 0.009297
+Eval Episode 38 | Return: 52.254 | Length: 30 | Mean EE Error: 0.012112
+Eval Episode 39 | Return: 67.694 | Length: 30 | Mean EE Error: 0.007169
+Eval Episode 40 | Return: 67.201 | Length: 30 | Mean EE Error: 0.006924
+Eval Episode 41 | Return: 33.967 | Length: 30 | Mean EE Error: 0.029618
+Eval Episode 42 | Return: 50.252 | Length: 30 | Mean EE Error: 0.025549
+Eval Episode 43 | Return: 65.711 | Length: 30 | Mean EE Error: 0.010198
+Eval Episode 44 | Return: 32.388 | Length: 30 | Mean EE Error: 0.036088
+Eval Episode 45 | Return: 56.773 | Length: 30 | Mean EE Error: 0.005642
+Eval Episode 46 | Return: 30.245 | Length: 30 | Mean EE Error: 0.046043
+Eval Episode 47 | Return: 64.701 | Length: 30 | Mean EE Error: 0.010165
+Eval Episode 48 | Return: 52.389 | Length: 30 | Mean EE Error: 0.011998
+Eval Episode 49 | Return: 61.576 | Length: 30 | Mean EE Error: 0.020723
+Eval Episode 50 | Return: 51.351 | Length: 30 | Mean EE Error: 0.015640
+Eval Episode 51 | Return: 58.526 | Length: 30 | Mean EE Error: 0.011972
+Eval Episode 52 | Return: 53.480 | Length: 30 | Mean EE Error: 0.011540
+Eval Episode 53 | Return: 48.202 | Length: 30 | Mean EE Error: 0.025641
+Eval Episode 54 | Return: 50.327 | Length: 30 | Mean EE Error: 0.019416
+Eval Episode 55 | Return: 54.468 | Length: 30 | Mean EE Error: 0.006777
+Eval Episode 56 | Return: 53.501 | Length: 30 | Mean EE Error: 0.011131
+Eval Episode 57 | Return: 50.212 | Length: 30 | Mean EE Error: 0.018967
+Eval Episode 58 | Return: 63.779 | Length: 30 | Mean EE Error: 0.012620
+Eval Episode 59 | Return: 51.197 | Length: 30 | Mean EE Error: 0.015997
+Eval Episode 60 | Return: 65.487 | Length: 30 | Mean EE Error: 0.009402
+Eval Episode 61 | Return: 61.884 | Length: 30 | Mean EE Error: 0.008130
+Eval Episode 62 | Return: 50.516 | Length: 30 | Mean EE Error: 0.017191
+Eval Episode 63 | Return: 68.983 | Length: 30 | Mean EE Error: 0.004514
+Eval Episode 64 | Return: 31.321 | Length: 30 | Mean EE Error: 0.041496
+Eval Episode 65 | Return: 51.778 | Length: 30 | Mean EE Error: 0.014813
+Eval Episode 66 | Return: 62.363 | Length: 30 | Mean EE Error: 0.018013
+Eval Episode 67 | Return: 64.414 | Length: 30 | Mean EE Error: 0.012648
+Eval Episode 68 | Return: 32.917 | Length: 30 | Mean EE Error: 0.033545
+Eval Episode 69 | Return: 52.444 | Length: 30 | Mean EE Error: 0.012058
+Eval Episode 70 | Return: 52.366 | Length: 30 | Mean EE Error: 0.010193
+Eval Episode 71 | Return: 63.436 | Length: 30 | Mean EE Error: 0.010446
+Eval Episode 72 | Return: 50.790 | Length: 30 | Mean EE Error: 0.017060
+Eval Episode 73 | Return: 50.385 | Length: 30 | Mean EE Error: 0.017514
+Eval Episode 74 | Return: 52.912 | Length: 30 | Mean EE Error: 0.010124
+Eval Episode 75 | Return: 64.772 | Length: 30 | Mean EE Error: 0.011036
+Eval Episode 76 | Return: 50.018 | Length: 30 | Mean EE Error: 0.019357
+Eval Episode 77 | Return: 51.978 | Length: 30 | Mean EE Error: 0.011811
+Eval Episode 78 | Return: 66.610 | Length: 30 | Mean EE Error: 0.008420
+Eval Episode 79 | Return: 52.290 | Length: 30 | Mean EE Error: 0.012540
+Eval Episode 80 | Return: 30.142 | Length: 30 | Mean EE Error: 0.047441
+Eval Episode 81 | Return: 56.601 | Length: 30 | Mean EE Error: 0.013125
+Eval Episode 82 | Return: 47.745 | Length: 30 | Mean EE Error: 0.023780
+Eval Episode 83 | Return: 64.720 | Length: 30 | Mean EE Error: 0.011852
+Eval Episode 84 | Return: 50.586 | Length: 30 | Mean EE Error: 0.018955
+Eval Episode 85 | Return: 66.037 | Length: 30 | Mean EE Error: 0.007530
+Eval Episode 86 | Return: 52.733 | Length: 30 | Mean EE Error: 0.011449
+Eval Episode 87 | Return: 66.585 | Length: 30 | Mean EE Error: 0.009029
+Eval Episode 88 | Return: 34.166 | Length: 30 | Mean EE Error: 0.028290
+Eval Episode 89 | Return: 48.763 | Length: 30 | Mean EE Error: 0.024386
+Eval Episode 90 | Return: 51.765 | Length: 30 | Mean EE Error: 0.014510
+Eval Episode 91 | Return: 51.357 | Length: 30 | Mean EE Error: 0.014538
+Eval Episode 92 | Return: 57.694 | Length: 30 | Mean EE Error: 0.007139
+Eval Episode 93 | Return: 52.640 | Length: 30 | Mean EE Error: 0.012972
+Eval Episode 94 | Return: 49.955 | Length: 30 | Mean EE Error: 0.019310
+Eval Episode 95 | Return: 48.681 | Length: 30 | Mean EE Error: 0.024203
+Eval Episode 96 | Return: 67.939 | Length: 30 | Mean EE Error: 0.006768
+Eval Episode 97 | Return: 52.043 | Length: 30 | Mean EE Error: 0.013184
+Eval Episode 98 | Return: 52.308 | Length: 30 | Mean EE Error: 0.012594
+Eval Episode 99 | Return: 54.481 | Length: 30 | Mean EE Error: 0.008578
+Eval Episode 100 | Return: 32.664 | Length: 30 | Mean EE Error: 0.036698
+
+===== Evaluation Summary =====
+Number of episodes   : 100
+Mean return          : 53.080
+Std return           : 10.928
+Min return           : 18.168
+Max return           : 68.983
+Median return        : 52.337
+Mean length          : 30.00
+Std length           : 0.00
+Mean tracking error  : 0.017480
+Std tracking error   : 0.012824
+Min tracking error   : 0.004514
+Max tracking error   : 0.085964

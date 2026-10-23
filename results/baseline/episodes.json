@@ -1,0 +1,602 @@
+[
+  {
+    "episode": 1,
+    "return_": 62.718,
+    "length": 30,
+    "mean_ee_error_m": 0.016903
+  },
+  {
+    "episode": 2,
+    "return_": 52.825,
+    "length": 30,
+    "mean_ee_error_m": 0.010693
+  },
+  {
+    "episode": 3,
+    "return_": 67.549,
+    "length": 30,
+    "mean_ee_error_m": 0.008266
+  },
+  {
+    "episode": 4,
+    "return_": 20.536,
+    "length": 30,
+    "mean_ee_error_m": 0.070198
+  },
+  {
+    "episode": 5,
+    "return_": 51.053,
+    "length": 30,
+    "mean_ee_error_m": 0.018145
+  },
+  {
+    "episode": 6,
+    "return_": 22.922,
+    "length": 30,
+    "mean_ee_error_m": 0.055683
+  },
+  {
+    "episode": 7,
+    "return_": 51.839,
+    "length": 30,
+    "mean_ee_error_m": 0.014461
+  },
+  {
+    "episode": 8,
+    "return_": 48.818,
+    "length": 30,
+    "mean_ee_error_m": 0.023863
+  },
+  {
+    "episode": 9,
+    "return_": 51.353,
+    "length": 30,
+    "mean_ee_error_m": 0.016922
+  },
+  {
+    "episode": 10,
+    "return_": 52.644,
+    "length": 30,
+    "mean_ee_error_m": 0.012215
+  },
+  {
+    "episode": 11,
+    "return_": 67.174,
+    "length": 30,
+    "mean_ee_error_m": 0.00612
+  },
+  {
+    "episode": 12,
+    "return_": 53.519,
+    "length": 30,
+    "mean_ee_error_m": 0.010367
+  },
+  {
+    "episode": 13,
+    "return_": 48.042,
+    "length": 30,
+    "mean_ee_error_m": 0.026107
+  },
+  {
+    "episode": 14,
+    "return_": 56.427,
+    "length": 30,
+    "mean_ee_error_m": 0.010889
+  },
+  {
+    "episode": 15,
+    "return_": 50.986,
+    "length": 30,
+    "mean_ee_error_m": 0.018478
+  },
+  {
+    "episode": 16,
+    "return_": 68.911,
+    "length": 30,
+    "mean_ee_error_m": 0.004708
+  },
+  {
+    "episode": 17,
+    "return_": 49.963,
+    "length": 30,
+    "mean_ee_error_m": 0.017472
+  },
+  {
+    "episode": 18,
+    "return_": 53.302,
+    "length": 30,
+    "mean_ee_error_m": 0.01065
+  },
+  {
+    "episode": 19,
+    "return_": 51.952,
+    "length": 30,
+    "mean_ee_error_m": 0.01342
+  },
+  {
+    "episode": 20,
+    "return_": 48.47,
+    "length": 30,
+    "mean_ee_error_m": 0.026526
+  },
+  {
+    "episode": 21,
+    "return_": 53.178,
+    "length": 30,
+    "mean_ee_error_m": 0.009252
+  },
+  {
+    "episode": 22,
+    "return_": 50.98,
+    "length": 30,
+    "mean_ee_error_m": 0.015479
+  },
+  {
+    "episode": 23,
+    "return_": 60.149,
+    "length": 30,
+    "mean_ee_error_m": 0.023694
+  },
+  {
+    "episode": 24,
+    "return_": 64.958,
+    "length": 30,
+    "mean_ee_error_m": 0.012528
+  },
+  {
+    "episode": 25,
+    "return_": 65.753,
+    "length": 30,
+    "mean_ee_error_m": 0.008061
+  },
+  {
+    "episode": 26,
+    "return_": 65.671,
+    "length": 30,
+    "mean_ee_error_m": 0.009104
+  },
+  {
+    "episode": 27,
+    "return_": 18.168,
+    "length": 30,
+    "mean_ee_error_m": 0.085964
+  },
+  {
+    "episode": 28,
+    "return_": 65.24,
+    "length": 30,
+    "mean_ee_error_m": 0.008887
+  },
+  {
+    "episode": 29,
+    "return_": 49.972,
+    "length": 30,
+    "mean_ee_error_m": 0.01934
+  },
+  {
+    "episode": 30,
+    "return_": 65.706,
+    "length": 30,
+    "mean_ee_error_m": 0.010342
+  },
+  {
+    "episode": 31,
+    "return_": 51.037,
+    "length": 30,
+    "mean_ee_error_m": 0.015945
+  },
+  {
+    "episode": 32,
+    "return_": 50.232,
+    "length": 30,
+    "mean_ee_error_m": 0.019716
+  },
+  {
+    "episode": 33,
+    "return_": 51.806,
+    "length": 30,
+    "mean_ee_error_m": 0.01438
+  },
+  {
+    "episode": 34,
+    "return_": 33.917,
+    "length": 30,
+    "mean_ee_error_m": 0.02998
+  },
+  {
+    "episode": 35,
+    "return_": 50.538,
+    "length": 30,
+    "mean_ee_error_m": 0.01745
+  },
+  {
+    "episode": 36,
+    "return_": 67.187,
+    "length": 30,
+    "mean_ee_error_m": 0.007915
+  },
+  {
+    "episode": 37,
+    "return_": 55.066,
+    "length": 30,
+    "mean_ee_error_m": 0.009297
+  },
+  {
+    "episode": 38,
+    "return_": 52.254,
+    "length": 30,
+    "mean_ee_error_m": 0.012112
+  },
+  {
+    "episode": 39,
+    "return_": 67.694,
+    "length": 30,
+    "mean_ee_error_m": 0.007169
+  },
+  {
+    "episode": 40,
+    "return_": 67.201,
+    "length": 30,
+    "mean_ee_error_m": 0.006924
+  },
+  {
+    "episode": 41,
+    "return_": 33.967,
+    "length": 30,
+    "mean_ee_error_m": 0.029618
+  },
+  {
+    "episode": 42,
+    "return_": 50.252,
+    "length": 30,
+    "mean_ee_error_m": 0.025549
+  },
+  {
+    "episode": 43,
+    "return_": 65.711,
+    "length": 30,
+    "mean_ee_error_m": 0.010198
+  },
+  {
+    "episode": 44,
+    "return_": 32.388,
+    "length": 30,
+    "mean_ee_error_m": 0.036088
+  },
+  {
+    "episode": 45,
+    "return_": 56.773,
+    "length": 30,
+    "mean_ee_error_m": 0.005642
+  },
+  {
+    "episode": 46,
+    "return_": 30.245,
+    "length": 30,
+    "mean_ee_error_m": 0.046043
+  },
+  {
+    "episode": 47,
+    "return_": 64.701,
+    "length": 30,
+    "mean_ee_error_m": 0.010165
+  },
+  {
+    "episode": 48,
+    "return_": 52.389,
+    "length": 30,
+    "mean_ee_error_m": 0.011998
+  },
+  {
+    "episode": 49,
+    "return_": 61.576,
+    "length": 30,
+    "mean_ee_error_m": 0.020723
+  },
+  {
+    "episode": 50,
+    "return_": 51.351,
+    "length": 30,
+    "mean_ee_error_m": 0.01564
+  },
+  {
+    "episode": 51,
+    "return_": 58.526,
+    "length": 30,
+    "mean_ee_error_m": 0.011972
+  },
+  {
+    "episode": 52,
+    "return_": 53.48,
+    "length": 30,
+    "mean_ee_error_m": 0.01154
+  },
+  {
+    "episode": 53,
+    "return_": 48.202,
+    "length": 30,
+    "mean_ee_error_m": 0.025641
+  },
+  {
+    "episode": 54,
+    "return_": 50.327,
+    "length": 30,
+    "mean_ee_error_m": 0.019416
+  },
+  {
+    "episode": 55,
+    "return_": 54.468,
+    "length": 30,
+    "mean_ee_error_m": 0.006777
+  },
+  {
+    "episode": 56,
+    "return_": 53.501,
+    "length": 30,
+    "mean_ee_error_m": 0.011131
+  },
+  {
+    "episode": 57,
+    "return_": 50.212,
+    "length": 30,
+    "mean_ee_error_m": 0.018967
+  },
+  {
+    "episode": 58,
+    "return_": 63.779,
+    "length": 30,
+    "mean_ee_error_m": 0.01262
+  },
+  {
+    "episode": 59,
+    "return_": 51.197,
+    "length": 30,
+    "mean_ee_error_m": 0.015997
+  },
+  {
+    "episode": 60,
+    "return_": 65.487,
+    "length": 30,
+    "mean_ee_error_m": 0.009402
+  },
+  {
+    "episode": 61,
+    "return_": 61.884,
+    "length": 30,
+    "mean_ee_error_m": 0.00813
+  },
+  {
+    "episode": 62,
+    "return_": 50.516,
+    "length": 30,
+    "mean_ee_error_m": 0.017191
+  },
+  {
+    "episode": 63,
+    "return_": 68.983,
+    "length": 30,
+    "mean_ee_error_m": 0.004514
+  },
+  {
+    "episode": 64,
+    "return_": 31.321,
+    "length": 30,
+    "mean_ee_error_m": 0.041496
+  },
+  {
+    "episode": 65,
+    "return_": 51.778,
+    "length": 30,
+    "mean_ee_error_m": 0.014813
+  },
+  {
+    "episode": 66,
+    "return_": 62.363,
+    "length": 30,
+    "mean_ee_error_m": 0.018013
+  },
+  {
+    "episode": 67,
+    "return_": 64.414,
+    "length": 30,
+    "mean_ee_error_m": 0.012648
+  },
+  {
+    "episode": 68,
+    "return_": 32.917,
+    "length": 30,
+    "mean_ee_error_m": 0.033545
+  },
+  {
+    "episode": 69,
+    "return_": 52.444,
+    "length": 30,
+    "mean_ee_error_m": 0.012058
+  },
+  {
+    "episode": 70,
+    "return_": 52.366,
+    "length": 30,
+    "mean_ee_error_m": 0.010193
+  },
+  {
+    "episode": 71,
+    "return_": 63.436,
+    "length": 30,
+    "mean_ee_error_m": 0.010446
+  },
+  {
+    "episode": 72,
+    "return_": 50.79,
+    "length": 30,
+    "mean_ee_error_m": 0.01706
+  },
+  {
+    "episode": 73,
+    "return_": 50.385,
+    "length": 30,
+    "mean_ee_error_m": 0.017514
+  },
+  {
+    "episode": 74,
+    "return_": 52.912,
+    "length": 30,
+    "mean_ee_error_m": 0.010124
+  },
+  {
+    "episode": 75,
+    "return_": 64.772,
+    "length": 30,
+    "mean_ee_error_m": 0.011036
+  },
+  {
+    "episode": 76,
+    "return_": 50.018,
+    "length": 30,
+    "mean_ee_error_m": 0.019357
+  },
+  {
+    "episode": 77,
+    "return_": 51.978,
+    "length": 30,
+    "mean_ee_error_m": 0.011811
+  },
+  {
+    "episode": 78,
+    "return_": 66.61,
+    "length": 30,
+    "mean_ee_error_m": 0.00842
+  },
+  {
+    "episode": 79,
+    "return_": 52.29,
+    "length": 30,
+    "mean_ee_error_m": 0.01254
+  },
+  {
+    "episode": 80,
+    "return_": 30.142,
+    "length": 30,
+    "mean_ee_error_m": 0.047441
+  },
+  {
+    "episode": 81,
+    "return_": 56.601,
+    "length": 30,
+    "mean_ee_error_m": 0.013125
+  },
+  {
+    "episode": 82,
+    "return_": 47.745,
+    "length": 30,
+    "mean_ee_error_m": 0.02378
+  },
+  {
+    "episode": 83,
+    "return_": 64.72,
+    "length": 30,
+    "mean_ee_error_m": 0.011852
+  },
+  {
+    "episode": 84,
+    "return_": 50.586,
+    "length": 30,
+    "mean_ee_error_m": 0.018955
+  },
+  {
+    "episode": 85,
+    "return_": 66.037,
+    "length": 30,
+    "mean_ee_error_m": 0.00753
+  },
+  {
+    "episode": 86,
+    "return_": 52.733,
+    "length": 30,
+    "mean_ee_error_m": 0.011449
+  },
+  {
+    "episode": 87,
+    "return_": 66.585,
+    "length": 30,
+    "mean_ee_error_m": 0.009029
+  },
+  {
+    "episode": 88,
+    "return_": 34.166,
+    "length": 30,
+    "mean_ee_error_m": 0.02829
+  },
+  {
+    "episode": 89,
+    "return_": 48.763,
+    "length": 30,
+    "mean_ee_error_m": 0.024386
+  },
+  {
+    "episode": 90,
+    "return_": 51.765,
+    "length": 30,
+    "mean_ee_error_m": 0.01451
+  },
+  {
+    "episode": 91,
+    "return_": 51.357,
+    "length": 30,
+    "mean_ee_error_m": 0.014538
+  },
+  {
+    "episode": 92,
+    "return_": 57.694,
+    "length": 30,
+    "mean_ee_error_m": 0.007139
+  },
+  {
+    "episode": 93,
+    "return_": 52.64,
+    "length": 30,
+    "mean_ee_error_m": 0.012972
+  },
+  {
+    "episode": 94,
+    "return_": 49.955,
+    "length": 30,
+    "mean_ee_error_m": 0.01931
+  },
+  {
+    "episode": 95,
+    "return_": 48.681,
+    "length": 30,
+    "mean_ee_error_m": 0.024203
+  },
+  {
+    "episode": 96,
+    "return_": 67.939,
+    "length": 30,
+    "mean_ee_error_m": 0.006768
+  },
+  {
+    "episode": 97,
+    "return_": 52.043,
+    "length": 30,
+    "mean_ee_error_m": 0.013184
+  },
+  {
+    "episode": 98,
+    "return_": 52.308,
+    "length": 30,
+    "mean_ee_error_m": 0.012594
+  },
+  {
+    "episode": 99,
+    "return_": 54.481,
+    "length": 30,
+    "mean_ee_error_m": 0.008578
+  },
+  {
+    "episode": 100,
+    "return_": 32.664,
+    "length": 30,
+    "mean_ee_error_m": 0.036698
+  }
+]

@@ -1,0 +1,8 @@
+numpy>=1.24
+matplotlib>=3.7
+torch>=2.0
+gymnasium>=0.29
+mujoco>=3.1.6
+tensorboard==2.20.0
+# TensorBoard 2.20 imports pkg_resources, removed in setuptools 82.
+setuptools<82
